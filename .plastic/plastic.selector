@@ -1,0 +1,4 @@
+repository "ProjectPinchar/ProjectPinchar@2474795642371@cloud"
+  path "/"
+    br "/main"
+    co "/main"
